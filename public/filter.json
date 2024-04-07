@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "All"
+  },
+  {
+    "id": 2,
+    "name": "News"
+  },
+  {
+    "id": 3,
+    "name": "Popular"
+  },
+  {
+    "id": 4,
+    "name": "Onboarding"
+  },
+  {
+    "id": 6,
+    "name": "Shop"
+  },
+  {
+    "id": 7,
+    "name": "Chat"
+  },
+  {
+    "id": 8,
+    "name": "Top Verification"
+  },
+  {
+    "id": 9,
+    "name": "Dashboard"
+  },
+  {
+    "id": 10,
+    "name": "Food"
+  },
+  {
+    "id": 11,
+    "name": "Restaurent"
+  }
+]
